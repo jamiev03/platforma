@@ -1,0 +1,30 @@
+* {
+    font-family: 'Poppins', sans-serif;
+	font-style: inherit;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+body {
+    color: $white;
+    background-color: $bgGrey;
+    box-sizing: border-box;
+	}
+h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+ul {
+    list-style: none;
+    display: flex;
+}
+.container {
+    margin-inline: auto;
+    width: min(95%, 70.5rem);
+}
