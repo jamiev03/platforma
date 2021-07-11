@@ -230,6 +230,7 @@ footer {
     }
      .cards {
         flex-wrap: wrap;
+        padding-bottom: 6rem;
     }
     .card {
         flex: 0 1 100%;
